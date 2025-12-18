@@ -88,7 +88,6 @@ This project was built with assistance from **GitHub Copilot** (powered by Claud
 - Code structure and implementation
 - Error handling patterns
 - CLI design using Clap
-- Documentation and README creation
 
 ---
 
